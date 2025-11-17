@@ -47,9 +47,9 @@ body {
 }
 
 .nav-logo {
-  width: 36px;
-  height: auto;
-  margin-right: 8px;
+  width: 170px;
+  height: 166px;
+  margin-right: 18px;
 }
 
 .nav-brand {
@@ -487,3 +487,4 @@ body {
 .team-member p {
   margin: 0;
 }
+
